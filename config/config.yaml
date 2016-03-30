@@ -1,0 +1,11 @@
+host: http://localhost
+port: 3000
+encoding: json
+data_file: data/source.csv
+commands:
+  - from
+  - to
+  - has
+  - income
+  - expense
+  - amount
